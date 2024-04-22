@@ -1,0 +1,18 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.a{
+    position: absolute;
+    backface-visibility: var();
+}
+main{
+    background-position-x: center;
+    position: fixed;
+}
+#n{
+    background-color: brown;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+}

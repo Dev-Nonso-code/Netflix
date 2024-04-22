@@ -1,0 +1,105 @@
+/* body{
+    background-image: url(./classcss/classimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.cont{
+    background-image: url(./classcss/classimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 590px;
+    width: auto;
+    border-collapse: collapse;
+}
+.div1{
+    background-color: rgba(255, 255, 255, 0.432);
+    height: 590px;
+}
+ main{
+    margin: auto;
+    padding: 1%;
+    text-align: justify;
+    background-color: #ffff;
+    width: 350px;
+    height: 70%;
+    border: none;
+    border-radius: 1%;
+    justify-content: center;
+    padding-top: 30px;
+}
+.ao{
+    padding-top: 20px;
+}
+.email{
+   padding: px;
+   width: 300px;
+   height: 30px;
+   border-inline: remove;
+   text-align: center;
+   
+   
+}
+.password{
+    padding: 0%;
+    text-align: center;
+    text-shadow: #2ec4b6;
+    width: 300px;
+    height: 30px;
+}
+h1{
+    color: #2ec4b6;
+    padding: 1%;
+    margin-left: 90px;
+}
+.label{
+    margin-right: 130px;
+}
+h3{
+    margin-left: 120px;
+}
+.signin{
+    width: 350px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 10px 0;
+    outline: none;
+    text-align: center;
+    font-size: 20px;
+    color: azure;
+    background-color: #2ec4b6;
+    border: none;
+    /* font-weight: 700; */
+}
+.Register{
+    width: 350px;
+    height: 30px;
+    border-radius: 1px;
+    margin: 10px 0;
+    outline: none;
+    text-align: center;
+    font-size: 20px;
+    color: #2ec4b6;
+    background-color: rgb(249, 243, 243);
+    border: #2ec4b6;
+    border-color: #2ec4b6;
+    border-style:solid;
+    
+    
+}
+.login{
+    color: #2ec4b6;
+}
+.p1{
+    color: #2ec4b6;
+    text-align: center;
+}
+.a{
+    color: #2ec4b6;
+    border-collapse: collapse;
+}

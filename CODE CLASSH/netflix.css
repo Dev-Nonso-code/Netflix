@@ -1,0 +1,270 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #222222;
+}
+.a{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/28b69a57-cadf-43d9-8a95-e5f2e11199de/77a25a1d-7805-4618-8637-a5c86b205033/NG-en-20221010-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    background-attachment: scroll;
+}
+.b{
+    background-color: rgba(0, 0, 0, 0.703);
+    height: 503px;
+}
+.san{
+    padding: 20px 10px;
+    width: 120px;
+    height: 90px;
+}
+.button{
+    margin-left: 850px;
+    margin-top: 3em;
+    width: 80px;
+    height: 37px;
+    background-color: red;
+    color: #ffff;
+    text-align: center;
+    position: absolute;
+    border-color: red;
+}
+.first{
+    font-size: 30px;
+    text-align: center;
+    color: #ffff;
+    padding-top: 7%;
+}
+.last{
+    font-size: 20px;
+    text-align: center;
+    color: #ffff;
+    padding-top: 2%;
+}
+.tt{
+    padding-top: 6px;
+}
+.text{
+    height: 30px;
+    width: 25%;
+    margin-bottom: 9%;
+    border-color: antiquewhite;
+    margin-top: 20px;
+}
+.spa{
+    margin-left: 35%;
+    margin-top: 70px;
+}
+.get{
+    color: aliceblue;
+    background-color: red;
+    width: 7%;
+    height: 34px;
+    margin-top: 20px;
+    border-color: red;
+    position: absolute;  
+}
+section{
+    height: 270px;
+    margin-top: 4px;
+    color: #ffff;
+    background-color: black;
+}
+.hole{
+    margin-top: 70px;
+    position: absolute;
+    justify-content: space-between;
+    margin-left: 70px;
+    font-size: 18px;
+}
+.im{
+    width: 340px;
+    height: 260px;
+    margin-left: 670px;
+}
+.imm{
+    
+    width: 240px;
+    height: 140px;
+    position: absolute;
+    margin-top: 55px;
+    padding-let: -20px;
+    right: 120px;
+}
+.ol{
+    margin-bottom: 15px;
+    font-size: 40px;
+}
+.dii{
+    justify-content: space-around;
+    display: flex;
+    height: 340px;
+    margin-top: 4px;
+    color: #ffff;
+    background-color: black;
+}
+.netima{
+    width: 280px;
+    height: 170px;
+    margin-top: 79px;
+}
+.doq{
+    margin-top: 79px;
+    font-size: 20px;
+}
+.down{
+    font-size: 49px;
+}
+.doo{
+    margin-top: 9px;
+}
+.watch{
+    margin-top: 3px;
+    height: 290px;
+    background-color: black;
+    color: #ffff;
+    padding: 40px 0px 0px 80px;
+    font-size: 29px;
+}
+.kid{
+    width: 320px;
+    height: 290px;
+}
+.kids{
+    justify-content: space-around;
+    display: flex;
+    height: 300px;
+    margin-top: 4px;
+    color: #ffff;
+    background-color: black;
+    padding-top: 74px;
+}
+.forkid{
+    padding-top: 20px;
+    font-size: 22px;
+    font-style: unset;
+}
+.low{
+    padding-top: 17px;
+}
+.que{
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 17px;
+}
+.kors{
+    color: #ffff;
+}
+.kor{
+    color: #ffff;
+}
+.read{
+    height: 550px;
+    color: #ffff;
+    /* background-color: black; */
+    margin-top: 3px;
+}
+.kor{
+    text-align: center;
+    font-size: 20px;
+}
+.kors{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+.spas{
+    text-align: center;
+    padding-top: 20px;
+}
+.las{
+    background-color: black;
+}
+.frequent{
+    width: 500px;
+    margin: auto;
+    
+}
+button{
+    width: 100%;
+    margin: 8px 0px;
+    background-color: #303030;
+    color: #ffff;
+}
+.button:hover .the-content{
+    display: block;
+}
+.what{
+    padding: 7px 13px 0px 13px;
+    display: flex;
+    justify-content: space-between;
+    transition: all 0.4s ease-in;
+    list-style-type: none;
+}
+.the-content{
+    font-size: 18px;
+    border-top: 1px solid black;
+    display: none;
+}
+button:focus-within .the-content{
+    display: block;
+    transition: all 0.5s ease-out;
+}
+.un{
+    background-color: black;
+    margin-top: 4px;
+}
+.freq{
+    margin-bottom: 14px;
+    text-align: center;
+    color: #ffff;
+}
+.bol{
+    display: flex;
+    
+}
+.poo{
+    width: 180px;
+    height: 120px;
+    margin: 58px 0px 0px 70px;
+    text-decoration: none;
+}
+.que{
+    padding-top: 12px;
+    margin: 0px 0px 0px 88px;
+    color: #ffff;
+    font-size: 30px;
+    text-decoration: none;
+}
+.ty{
+    background-color: black;
+    margin-top: 4px;
+    height: 250px;
+}
+.mom{
+    color: #ffff;
+    text-decoration: none;
+}
+.mom:hover{
+    text-decoration: underline;
+}
+.dog{
+    color: #ffff;
+    background-color: black;
+    padding: 40px 70px;
+}
+.dog:hover{
+    background-color: indigo;
+}
+.dogs{
+    color: #ffff;
+    text-decoration: none;
+}
+.dogs:hover{
+    color: tomato;
+    text-decoration: underline;
+    background-color: #ffff;
+}
